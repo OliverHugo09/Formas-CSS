@@ -1,0 +1,15 @@
+.box{
+    margin-top: 1rem;
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    clip-path: path("M 90,50 A 10,10 0,0,0 100,40 L 100,10 A 10,10 0,0,1 110,0 L 190,0 A 10,10 0,0,1 200,10 L 200,190 A 10,10 0,0,1 190,200 L 10,200 A 10,10 0,0,1 0,190 L 0,60 A 10,10 0,0,1 10,50 Z");
+}
+
+.box2{
+    margin-top: 1rem;
+    background-color: greenyellow;
+    width: 200px;
+    height: 200px;
+    clip-path: path("M 190,0 A 10,10 0,0,1 200,10 L 200,190 A 10,10 0,0,1 190,200 L 10,200 A 10,10 0,0,1 0,190 L 0,60 A 10,10 0,0,1 10,50 Z");
+}
